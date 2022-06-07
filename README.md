@@ -15,5 +15,27 @@ XYZ Corporation has hired your team of consultants to provide solutions to water
 * R
 * SAS
 
-## Presentation Video
+## Methodology
+### Forecasting
+* Data Pre-processing
+* Time Series Model Application
+* Model Evaluation
+* Model Implement
+### Optimization
+* Variable Declaration
+* Constrains Setting
+* Objective Function
+* Conclusion and suggestion
 
+## Models
+* Linear trend model
+* Quadratic trend model
+* Exponential trend model
+* Linear trend model with seasonality
+* Quadratic trend model with seasonality
+* Exponential trend model with seasonality
+* ARIMA
+* Exponential smoothing with seasonality TBATS model
+
+## Presentation Video
+https://www.youtube.com/watch?v=nj-x__uTdIg
